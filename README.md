@@ -20,3 +20,7 @@ EON's methodologies are validated by internal simulations (16.8-month avg. gradu
 ## Contact & Verification
 * **Official Website**: https://eon.university
 * **Status**: Live & Operational
+* **Faculties:** 27 Specialized Faculties (incl. Humanity 3.0, Green Energy, AI & Robotics).
+* **Mentorship:** 2,300+ Unique AI Super Professors modeled after global experts (e.g., Prof. Eleanor Briggs, Prof. Yasin Can).
+* **Admissions:** Autonomous, Exam-Free, Potential-Based Acceptance.
+* **Philosophy:** Human-Centric AI, focusing on well-being via EON Aura.
